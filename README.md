@@ -19,7 +19,7 @@ M3U Editor is an application developed in Flutter to easily edit large and small
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/coolerm690/m3u-editor.git
+    git clone https://github.com/Coolerm690/m3u-editor.git
     ```
 
 2. Navigate to the project folder:
