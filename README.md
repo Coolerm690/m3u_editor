@@ -43,7 +43,7 @@ M3U Editor is an application developed in Flutter to easily edit large and small
  ![M3u editor screeshot](https://github.com/user-attachments/assets/4ae3d11c-fc33-42d3-8d77-9dc937b7654c)
 
 
- ## 🚀 How to Install a release
+ ## 🚀 How to Install a Release
 
 ### 🖥️ Windows:
 1. Download the [m3u_editor.zip](https://github.com/Coolerm690/m3u_editor/releases/download/m3u/m3u_editor.zip).
